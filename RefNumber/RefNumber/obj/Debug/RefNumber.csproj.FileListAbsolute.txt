@@ -1,0 +1,6 @@
+D:\dev\refnumber\RefNumber\RefNumber\bin\Debug\RefNumber.exe.config
+D:\dev\refnumber\RefNumber\RefNumber\bin\Debug\RefNumber.exe
+D:\dev\refnumber\RefNumber\RefNumber\bin\Debug\RefNumber.pdb
+D:\dev\refnumber\RefNumber\RefNumber\obj\Debug\RefNumber.csprojResolveAssemblyReference.cache
+D:\dev\refnumber\RefNumber\RefNumber\obj\Debug\RefNumber.exe
+D:\dev\refnumber\RefNumber\RefNumber\obj\Debug\RefNumber.pdb
